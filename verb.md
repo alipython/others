@@ -17,3 +17,6 @@ colloquially		.adv		用通俗语.
 monolithic			.adj		整体的 
 
 concise				.adj		简明的
+
+
+本地修改的部分
